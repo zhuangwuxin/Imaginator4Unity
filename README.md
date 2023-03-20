@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://github.com/lukaschod/NeogeneUnityPackage/blob/main/Documentation~/images/header.png" alt="Neogene">
+    <img src="Documentation~/images/header.png" alt="Neogene">
 </p>
 
 <p align="center">
     <a href="https://discord.gg/jXC7Xyah96">
         <img src="https://img.shields.io/discord/599321316377624601.svg?logo=discord&logoColor=FFFFFF&label=Discord&labelColor=6A7EC2&color=7389D8" alt="Neogene on Discord"></a>
-    <a href="https://github.com/lukaschod/NeogeneUnityPackage/releases">
+    <a href="https://github.com/NeogeneAI/Imaginator4Unity.git/releases">
         <img src="https://img.shields.io/github/release/lukaschod/NeogeneUnityPackage.svg" alt="Latest release"></a>
 </p>
 
@@ -22,7 +22,7 @@ The AI texture/sprite generator package for Unity is an example of a package tha
 To set up the AI texture/sprite generator package in Unity, you can follow these steps:
 - Open your Unity project and go to the Package Manager window by clicking on the `Window` menu and selecting `Package Manager`.
 - In the Package Manager window, click on the plus icon in the top-left corner and select `Add package from git URL.`
-- In the `Add package from git URL` window, paste the URL `git@github.com:lukaschod/NeogeneUnityPackage.git` and click Add.
+- In the `Add package from git URL` window, paste the URL `https://github.com/NeogeneAI/Imaginator4Unity.git` and click Add.
 
 [Read More...](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
 
@@ -33,4 +33,4 @@ Here's a quick start guide for using the AI texture/sprite generator package in 
 - Type your prompt in the text box and click the "Generate" button to generate a new image based on your input.
 - The generated image will appear in the window, and you can save it to your computer or use it in your Unity project as needed.
 
-<img src="https://github.com/lukaschod/NeogeneUnityPackage/blob/main/Documentation~/images/window.png" width=400>
+<img src="Documentation~/images/window.png" width=400>
