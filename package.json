@@ -1,0 +1,15 @@
+{
+  "name": "ai.neogene.imaginator",
+  "displayName": "Imaginator",
+  "version": "0.1.0-preview",
+  "unity": "2021.3",
+  "keywords": [
+    "ai"
+  ],
+  "description": "The AI texture/sprite generator package for Unity is an example of a package that uses machine learning to generate high-quality textures and sprites automatically.",
+  "type": "tool",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "2.0.2",
+    "com.unity.editorcoroutines": "1.0.0"
+  }
+}
