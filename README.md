@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/jXC7Xyah96">
+    <a href="http://discord.neogene.ai/">
         <img src="https://img.shields.io/discord/599321316377624601.svg?logo=discord&logoColor=FFFFFF&label=Discord&labelColor=6A7EC2&color=7389D8" alt="Neogene on Discord"></a>
     <a href="https://github.com/NeogeneAI/Imaginator4Unity.git/releases">
         <img src="https://img.shields.io/github/v/release/NeogeneAI/Imaginator4Unity" alt="Latest release"></a>
