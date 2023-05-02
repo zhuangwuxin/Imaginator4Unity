@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this package will be documented in this file. The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## [0.5.0-preview] - 2023-04-24
+- Added option to generate PBR materials
+
 ## [0.4.0-preview] - 2023-04-14
 - Changed date group look
 - Changed save as by default use only prompt instead of prompt+guid
